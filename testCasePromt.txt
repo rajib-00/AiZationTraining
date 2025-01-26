@@ -1,0 +1,6 @@
+Generate test case for registration
+Generate test case for login
+Generate test case for add to cart operation
+Generate test case for remove from cart operation
+Generate test case for update to cart operation
+Generate test case for checkout operation
