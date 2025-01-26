@@ -1,0 +1,29 @@
+Task: eCommarce Web API to build an back-end service Programming Language NodeJS and Express
+
+Action 1: User Authentication and Management
+	1 User registration
+	2 User login/logout
+	3 Password management
+	4 User role management
+	
+Action 2: Product Listing and Detail Retrieval
+	1 Retrieve all products
+	2 Retrieve product details by ID
+	3 Filter products by category/attributes
+	
+Action 3: Cart Functionality
+	1 Add items to the cart
+	2 Remove items from the cart
+	3 Update item quantities in the cart
+	4 Retrieve cart details for a user
+	
+Guideline:
+    1 simple code
+	2 include all the above features
+	3 complete source code
+	4 scalable project
+
+
+	
+
+
